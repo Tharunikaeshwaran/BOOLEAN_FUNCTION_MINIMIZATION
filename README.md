@@ -48,7 +48,8 @@ RegisterNumber:212225040470
 
 
 **RTL realization**
-'/mnt/data/logic_circuit_image.png'
+
+/mnt/data/logic_circuit_image.png
 
 **Output:**
 
