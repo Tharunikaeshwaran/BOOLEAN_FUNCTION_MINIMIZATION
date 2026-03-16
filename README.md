@@ -33,6 +33,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 Developed by:Tharunika.E
+
 RegisterNumber:212225040470
 ```
 module EX2(a,b,c,d,f1,w,x,y,z,f2);
